@@ -1,12 +1,18 @@
-
 ---
-
 layout: page
 title: "PROFILE"
 permalink: /profile/
-
 ---
 
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8" .="">
+<title>main</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="main_files/snakeviz.css" rel="stylesheet">
+<!-- DataTables CSS -->
+<link href="main_files/jquery.dataTables.min.css" rel="stylesheet">
+</head>
 <body>
 <h1 id="snakeviz-text">
 <a href="https://jiffyclub.github.io/snakeviz/">SnakeViz</a>
