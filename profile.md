@@ -1,6 +1,11 @@
+
+---
+
 layout: page
 title: "PROFILE"
-permalink: /profile1/
+permalink: /profile/
+
+---
 
 <body>
 <h1 id="snakeviz-text">

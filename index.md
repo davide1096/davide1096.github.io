@@ -6,3 +6,4 @@ layout: home
 ---
 
 [about]({% link about.md %})
+[profile]({% link profile.md %})
